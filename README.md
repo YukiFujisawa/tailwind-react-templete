@@ -1,6 +1,6 @@
 # tailwind-react-templete
 
-- Vite + React + TS
+Vite + React + TS + Tailwind CSS 開発のテンプレート
 
 ## Install
 
