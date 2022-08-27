@@ -4,20 +4,20 @@
 
 ## Install
 
-### リポジトリを生成する
+### リポジトリ生成
 
 1. 「Use this templete」クリック
     - <img src="https://res.cloudinary.com/wywy-llc/image/upload/v1661564881/use_templete_tutd1z.png" alt="テンプレートの使い方">
 2. 自分のリポジトリに「tailwind-react-templete」を生成する
     - <img src="https://res.cloudinary.com/wywy-llc/image/upload/v1661565366/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2022-08-27_10.54.56_udwss7.png" alt="リポジトリの生成">
 
-### LTS の Node.js をインストールする
+### Node.js(LTS) のインストール
 
 ```
 $ nvm install
 ```
 
-### Node.js 系のインストール
+### ライブラリのインストール
 
 ```
 $ npm install
