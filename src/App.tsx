@@ -10,7 +10,7 @@ function App() {
     <div className='App'>
       <div>
         <a href='https://vitejs.dev' target='_blank'>
-          <img src='/vite.svg' className={`${logoStyle} hover:drop-shadow-[0_0_2em_#646cffaa]`} alt='Vite logo' />
+          <img src='./vite.svg' className={`${logoStyle} hover:drop-shadow-[0_0_2em_#646cffaa]`} alt='Vite logo' />
         </a>
         <a href='https://reactjs.org' target='_blank'>
           <img src={reactLogo} className={`${logoStyle} hover:drop-shadow-[0_0_2em_#61dafbaa]`} alt='React logo' />
