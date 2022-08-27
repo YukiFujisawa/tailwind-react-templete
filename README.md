@@ -42,3 +42,15 @@ $ npm run build
 ```
 
 dist フォルダ以下に出力される。
+
+### eslint
+
+```
+$ npm run lint
+```
+
+### コード整形
+
+```
+$ npm run format
+```
